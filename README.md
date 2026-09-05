@@ -64,6 +64,6 @@ set GEMINI_API_KEY=AIzaSy...
 
 ## 📄 Copyright & Licensing
 
-Copyright (c) 2026 Hadia Emaan. All rights reserved.
+Copyright (c) 2026 Zolbrixa. All rights reserved.
 
 Unauthorized copying, distribution, modification, public display, or public performance of this software, or any portion of it, is strictly prohibited without prior written permission from the copyright holder.
